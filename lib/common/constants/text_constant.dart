@@ -1,0 +1,37 @@
+class TextConstant{
+  static const String categories = "Categories";
+  static const String latest = "Latest";
+  static const String apparel = "Apparel";
+  static const String beauty = "Beauty";
+  static const String shoes = "Shoes";
+  static const String seeAll = "See All";
+  static const String home = "Home";
+  static const String search = "Search";
+  static const String cart = "Cart";
+  static const String profile = "Profile";
+  static const String more ="More";
+  static const String orderPlaced ="Order Placed!";
+  static const String myOrders ="My orders";
+  static const String price ="Price:";
+  static const String aboutItem ="About this item:";
+  static const String shareThis ="Share this";
+  static const String addToCard ="Add to card";
+  static const String checkout ="Checkout";
+  static const String total ="Total";
+  static const String minusSign ="-";
+  static const String plusSign ="+";
+  static const String numberOne ="1";
+  static const String numberTwo ="2";
+  static const String valueTotal = "\$ 2,237.79";
+  static const String descriptionLenovoIdeaPad = "Lenovo - IdeaPad L340 15 Gaming";
+  static const String valueLenovoIdeaPad = "\$ 717,80";
+  static const String descriptionLenovoThinkPad = 'Lenovo 15.6" ThinkPad P15s Gen 1';
+  static const String valueLenovoThinkPad = "\$ 1.519,00";
+  static const String descriptionLenovoTwoInOne = "Notebook Lenovo 2 em 1";
+  static const String valueLenovoTwoInOne = "\$ 4.699,00";
+  static const String textOrderPlaced = "Your order was placed successfully. For more details, check All My Orders page under Profile tab";
+  static const String textDescriptionProduct = 'Lenovo 15.6" ThinkPad P15s Gen 1 Laptop, Intel Core i7-10510U Quad-Core, 16GB DDR4 RAM, 512GB SSD, NVIDIA Quadro P520, Windows 10 Pro (20T4001VUS)';
+  static const String textAboutItem = '1.8 GHz Intel Core i7-10510U Quad-Core Processor\n16GB of DDR4 RAM | 512GB SSD\n15.6" 1920 x 1080 IPS Display\nNVIDIA Quadro P520\nWindows 10 Pro 64-Bit Edition\n1.8 GHz Intel Core i7-10510U Quad-Core Processor\n16GB of DDR4 RAM | 512GB SSD\n15.6" 1920 x 1080 IPS Display\nNVIDIA Quadro P520';
+  static const String textCardProductOne = 'Lenovo 15.6" ThinkPad P15s Gen 1 Laptop, Intel Core i7-10510U Quad-Core, 16GB DDR4 RAM, 512GB';
+  static const String textCardProductTwo = 'Lenovo - IdeaPad L340 15 Gaming Laptop - Intel Core i5 - 8GB Memory - NVIDIA GeForce GTX 1650 - 256GB Solid State';
+}
